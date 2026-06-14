@@ -1,0 +1,19 @@
+# AI Model Files (Ignore the heavy Gemma model)
+app/src/main/assets/*.bin
+app/src/main/assets/*.tflite
+
+# Built files and Gradle outputs
+.gradle/
+build/
+app/build/
+
+# Local configuration files (contains local paths, etc.)
+local.properties
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+.DS_Store
+
+# Log files
+*.log
