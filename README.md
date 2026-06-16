@@ -44,7 +44,7 @@ To compile a fresh standalone Android Package (APK), open your environment's ter
 
 ```bash
 ./gradlew assembleDebug
-
+```
 ---
 
 ## ⚠️ Disclaimer
