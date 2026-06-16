@@ -1,8 +1,10 @@
 # Ankon-Polley-AI
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/anknpolley123/Ankon-Polley-AI?style=flat-square&color=success)](https://github.com/anknpolley123/Ankon-Polley-AI/releases/tag/v1.0.0)
+
+[![Release](https://img.shields.io/badge/Release-v1.0.0-success?style=flat-square)](https://github.com/anknpolley123/Ankon-Polley-AI/releases/tag/v1.0.0)
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?style=flat-square)](#)
 [![Environment](https://img.shields.io/badge/Environment-Google%20IDX-blue?style=flat-square)](#)
+
 
 A high-performance Android application integrated with local AI capabilities. Built and compiled within a declarative cloud-based development environment utilizing customized build tools and optimized model execution layer.
 
